@@ -24,7 +24,7 @@ Assignment project: Building a feedforward neural network to classify news headl
 - Limitation: Titles are "Breaking News 1/2/..." → no real patterns to learn
 
 ## How to Run
-1. Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/fake-news-detection/blob/main/notebooks/Fake_News_Detection_Neural_Network.ipynb)
+1. Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/fake-news-detection/blob/main/notebooks/Fake_News_Detection_Neural_Network.ipynb](https://colab.research.google.com/drive/1zPk3ETqeiVktiviqONR3QLC_Qx1QjEN-?usp=sharing))
 2. Run all cells
 
 ## Answers to Assignment Questions
